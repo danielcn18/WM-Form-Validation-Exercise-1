@@ -1,0 +1,40 @@
+.contain{
+    height: auto;
+    padding: 1vh 0;
+    width: 65%;
+    margin: 5vh auto 0 auto;
+    background-color: rgb(39, 39, 39);
+}
+#title{
+    width: 100%;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+input{    
+    width: auto;
+}
+#submit{
+    display: flex;
+    text-align: left;
+    margin: 2vh auto;
+    font-size: 15px;
+}
+.card{
+    height: 4vh;
+}
+.box{
+    margin: 20px;
+    padding: 30px;
+    text-align: left;
+    line-height: 1.7;
+    background-color: rgb(72, 72, 72);
+    color: white;
+    font-size: 17px;
+}
